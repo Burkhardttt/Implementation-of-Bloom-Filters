@@ -1,0 +1,2 @@
+By looking up of elements in set A, the number of elements in the filter is: 1000
+By looking up of elements in set B, the number of elements in the filter is: 14

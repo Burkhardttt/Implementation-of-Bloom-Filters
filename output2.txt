@@ -1,0 +1,1 @@
+By looking up of elements in set A, the number of elements in the filter is: 510
